@@ -176,10 +176,10 @@ torch.manual_seed(manualSeed)
 # 
 
 # Root directory for dataset
-dataroot = "/home/ubuntu/facebook/datasets/celeba"
+dataroot = "data/celeba"
 
 # Number of workers for dataloader
-workers = 4
+workers = 2
 
 # Batch size during training
 batch_size = 128
@@ -201,7 +201,8 @@ ngf = 64
 ndf = 64
 
 # Number of training epochs
-num_epochs = 5
+# num_epochs = 5
+num_epochs = 1 # yf225 TODO: DEBUG
 
 # Learning rate for optimizers
 lr = 0.0002

@@ -331,108 +331,108 @@ transformations while training.
 
  .. code-block:: none
 
-    Train Epoch: 1 [0/60000 (0%)]   Loss: 2.345713
-    Train Epoch: 1 [32000/60000 (53%)]      Loss: 0.800387
+    Train Epoch: 1 [0/60000 (0%)]   Loss: 2.290120
+    Train Epoch: 1 [32000/60000 (53%)]      Loss: 1.076908
 
-    Test set: Average loss: 0.2062, Accuracy: 9431/10000 (94%)
+    Test set: Average loss: 0.2133, Accuracy: 9402/10000 (94%)
 
-    Train Epoch: 2 [0/60000 (0%)]   Loss: 0.353793
-    Train Epoch: 2 [32000/60000 (53%)]      Loss: 0.311179
+    Train Epoch: 2 [0/60000 (0%)]   Loss: 0.691698
+    Train Epoch: 2 [32000/60000 (53%)]      Loss: 0.299839
 
-    Test set: Average loss: 0.1226, Accuracy: 9648/10000 (96%)
+    Test set: Average loss: 0.2877, Accuracy: 9021/10000 (90%)
 
-    Train Epoch: 3 [0/60000 (0%)]   Loss: 0.187958
-    Train Epoch: 3 [32000/60000 (53%)]      Loss: 0.465108
+    Train Epoch: 3 [0/60000 (0%)]   Loss: 0.653792
+    Train Epoch: 3 [32000/60000 (53%)]      Loss: 0.381559
 
-    Test set: Average loss: 0.1741, Accuracy: 9489/10000 (95%)
+    Test set: Average loss: 0.0853, Accuracy: 9733/10000 (97%)
 
-    Train Epoch: 4 [0/60000 (0%)]   Loss: 0.414825
-    Train Epoch: 4 [32000/60000 (53%)]      Loss: 0.190623
+    Train Epoch: 4 [0/60000 (0%)]   Loss: 0.161881
+    Train Epoch: 4 [32000/60000 (53%)]      Loss: 0.277772
 
-    Test set: Average loss: 0.0719, Accuracy: 9775/10000 (98%)
+    Test set: Average loss: 0.0802, Accuracy: 9751/10000 (98%)
 
-    Train Epoch: 5 [0/60000 (0%)]   Loss: 0.326834
-    Train Epoch: 5 [32000/60000 (53%)]      Loss: 0.207580
+    Train Epoch: 5 [0/60000 (0%)]   Loss: 0.424223
+    Train Epoch: 5 [32000/60000 (53%)]      Loss: 0.147294
 
-    Test set: Average loss: 0.0712, Accuracy: 9773/10000 (98%)
+    Test set: Average loss: 0.0985, Accuracy: 9693/10000 (97%)
 
-    Train Epoch: 6 [0/60000 (0%)]   Loss: 0.213898
-    Train Epoch: 6 [32000/60000 (53%)]      Loss: 0.246923
+    Train Epoch: 6 [0/60000 (0%)]   Loss: 0.152097
+    Train Epoch: 6 [32000/60000 (53%)]      Loss: 0.082963
 
-    Test set: Average loss: 0.0848, Accuracy: 9747/10000 (97%)
+    Test set: Average loss: 0.0566, Accuracy: 9816/10000 (98%)
 
-    Train Epoch: 7 [0/60000 (0%)]   Loss: 0.081923
-    Train Epoch: 7 [32000/60000 (53%)]      Loss: 0.152231
+    Train Epoch: 7 [0/60000 (0%)]   Loss: 0.153308
+    Train Epoch: 7 [32000/60000 (53%)]      Loss: 0.281704
 
-    Test set: Average loss: 0.0660, Accuracy: 9808/10000 (98%)
+    Test set: Average loss: 0.0610, Accuracy: 9812/10000 (98%)
 
-    Train Epoch: 8 [0/60000 (0%)]   Loss: 0.131550
-    Train Epoch: 8 [32000/60000 (53%)]      Loss: 0.176575
+    Train Epoch: 8 [0/60000 (0%)]   Loss: 0.070143
+    Train Epoch: 8 [32000/60000 (53%)]      Loss: 0.234715
 
-    Test set: Average loss: 0.0542, Accuracy: 9838/10000 (98%)
+    Test set: Average loss: 0.0501, Accuracy: 9841/10000 (98%)
 
-    Train Epoch: 9 [0/60000 (0%)]   Loss: 0.237464
-    Train Epoch: 9 [32000/60000 (53%)]      Loss: 0.034639
+    Train Epoch: 9 [0/60000 (0%)]   Loss: 0.105674
+    Train Epoch: 9 [32000/60000 (53%)]      Loss: 0.054296
 
-    Test set: Average loss: 0.0516, Accuracy: 9846/10000 (98%)
+    Test set: Average loss: 0.0467, Accuracy: 9859/10000 (99%)
 
-    Train Epoch: 10 [0/60000 (0%)]  Loss: 0.056443
-    Train Epoch: 10 [32000/60000 (53%)]     Loss: 0.136011
+    Train Epoch: 10 [0/60000 (0%)]  Loss: 0.096456
+    Train Epoch: 10 [32000/60000 (53%)]     Loss: 0.276286
 
-    Test set: Average loss: 0.0478, Accuracy: 9842/10000 (98%)
+    Test set: Average loss: 0.0527, Accuracy: 9843/10000 (98%)
 
-    Train Epoch: 11 [0/60000 (0%)]  Loss: 0.197817
-    Train Epoch: 11 [32000/60000 (53%)]     Loss: 0.065170
+    Train Epoch: 11 [0/60000 (0%)]  Loss: 0.038163
+    Train Epoch: 11 [32000/60000 (53%)]     Loss: 0.118673
 
-    Test set: Average loss: 0.0475, Accuracy: 9864/10000 (99%)
+    Test set: Average loss: 0.0698, Accuracy: 9775/10000 (98%)
 
-    Train Epoch: 12 [0/60000 (0%)]  Loss: 0.123880
-    Train Epoch: 12 [32000/60000 (53%)]     Loss: 0.062649
+    Train Epoch: 12 [0/60000 (0%)]  Loss: 0.161458
+    Train Epoch: 12 [32000/60000 (53%)]     Loss: 0.082363
 
-    Test set: Average loss: 0.0628, Accuracy: 9802/10000 (98%)
+    Test set: Average loss: 0.0410, Accuracy: 9868/10000 (99%)
 
-    Train Epoch: 13 [0/60000 (0%)]  Loss: 0.134825
-    Train Epoch: 13 [32000/60000 (53%)]     Loss: 0.110926
+    Train Epoch: 13 [0/60000 (0%)]  Loss: 0.062521
+    Train Epoch: 13 [32000/60000 (53%)]     Loss: 0.186065
 
-    Test set: Average loss: 0.0602, Accuracy: 9810/10000 (98%)
+    Test set: Average loss: 0.0413, Accuracy: 9860/10000 (99%)
 
-    Train Epoch: 14 [0/60000 (0%)]  Loss: 0.069058
-    Train Epoch: 14 [32000/60000 (53%)]     Loss: 0.094049
+    Train Epoch: 14 [0/60000 (0%)]  Loss: 0.193122
+    Train Epoch: 14 [32000/60000 (53%)]     Loss: 0.166839
 
-    Test set: Average loss: 0.0472, Accuracy: 9856/10000 (99%)
+    Test set: Average loss: 0.0509, Accuracy: 9836/10000 (98%)
 
-    Train Epoch: 15 [0/60000 (0%)]  Loss: 0.035787
-    Train Epoch: 15 [32000/60000 (53%)]     Loss: 0.113708
+    Train Epoch: 15 [0/60000 (0%)]  Loss: 0.054975
+    Train Epoch: 15 [32000/60000 (53%)]     Loss: 0.054883
 
-    Test set: Average loss: 0.0480, Accuracy: 9860/10000 (99%)
+    Test set: Average loss: 0.0487, Accuracy: 9853/10000 (99%)
 
-    Train Epoch: 16 [0/60000 (0%)]  Loss: 0.112437
-    Train Epoch: 16 [32000/60000 (53%)]     Loss: 0.118043
+    Train Epoch: 16 [0/60000 (0%)]  Loss: 0.081573
+    Train Epoch: 16 [32000/60000 (53%)]     Loss: 0.021658
 
-    Test set: Average loss: 0.0386, Accuracy: 9885/10000 (99%)
+    Test set: Average loss: 0.0435, Accuracy: 9875/10000 (99%)
 
-    Train Epoch: 17 [0/60000 (0%)]  Loss: 0.090034
-    Train Epoch: 17 [32000/60000 (53%)]     Loss: 0.300923
+    Train Epoch: 17 [0/60000 (0%)]  Loss: 0.149638
+    Train Epoch: 17 [32000/60000 (53%)]     Loss: 0.167505
 
-    Test set: Average loss: 0.0539, Accuracy: 9834/10000 (98%)
+    Test set: Average loss: 0.0392, Accuracy: 9889/10000 (99%)
 
-    Train Epoch: 18 [0/60000 (0%)]  Loss: 0.428552
-    Train Epoch: 18 [32000/60000 (53%)]     Loss: 0.071741
+    Train Epoch: 18 [0/60000 (0%)]  Loss: 0.217452
+    Train Epoch: 18 [32000/60000 (53%)]     Loss: 0.176238
 
-    Test set: Average loss: 0.0536, Accuracy: 9829/10000 (98%)
+    Test set: Average loss: 0.0430, Accuracy: 9876/10000 (99%)
 
-    Train Epoch: 19 [0/60000 (0%)]  Loss: 0.134506
-    Train Epoch: 19 [32000/60000 (53%)]     Loss: 0.049006
+    Train Epoch: 19 [0/60000 (0%)]  Loss: 0.100037
+    Train Epoch: 19 [32000/60000 (53%)]     Loss: 0.055679
 
-    Test set: Average loss: 0.0386, Accuracy: 9876/10000 (99%)
+    Test set: Average loss: 0.0349, Accuracy: 9901/10000 (99%)
 
-    Train Epoch: 20 [0/60000 (0%)]  Loss: 0.091285
-    Train Epoch: 20 [32000/60000 (53%)]     Loss: 0.068183
+    Train Epoch: 20 [0/60000 (0%)]  Loss: 0.048049
+    Train Epoch: 20 [32000/60000 (53%)]     Loss: 0.227086
 
-    Test set: Average loss: 0.0394, Accuracy: 9875/10000 (99%)
+    Test set: Average loss: 0.0335, Accuracy: 9902/10000 (99%)
 
 
-**Total running time of the script:** ( 1 minutes  42.444 seconds)
+**Total running time of the script:** ( 1 minutes  40.403 seconds)
 
 
 .. _sphx_glr_download_intermediate_spatial_transformer_tutorial.py:
